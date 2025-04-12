@@ -45,3 +45,17 @@ The agent successfully learns to solve the maze in fewer steps over time. Traini
 - Shorter paths
 - Higher cumulative rewards
 
+
+##🧠 Learnings
+Difference between on-policy and off-policy learning
+
+How value updates happen in RL
+
+Importance of exploration-exploitation tradeoff
+
+How neural networks can learn Q-values
+
+##🙌 Acknowledgments
+Inspired by classic RL research papers, Sutton & Barto’s RL book, and various OpenAI tutorials.
+
+
