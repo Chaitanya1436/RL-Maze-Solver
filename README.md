@@ -13,10 +13,12 @@ This project demonstrates how an agent learns to solve a maze using Reinforcemen
 ## 🎥 Demo
 
 ### 🔁 Before Training
-![Before Training](path/to/before_training.gif)
+![Before Training](Maze_untrained_gif.gif)
 
 ### ✅ After Training
-![After Training](path/to/after_training.gif)
+![After Training](Maze_trained_gif.gif)
+
+
 
 > Watch the agent go from clueless wandering to efficient maze-solving!
 
